@@ -571,4 +571,214 @@ function askForInput()
     
     }
   
+    case "106":
+    {
+      document.write ("Name of element:Seaborgium" + "<br>" );
+      document.write ("Symbol:Sg" + "<br>" );
+      document.write ("Group:6" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:106" + "<br>" );
+      document.write ("Mass Number:269" + "<br>" );
+      document.write ("Number of Protons:106" + "<br>" );
+      document.write ("Number of Electrons:106" + "<br>" );
+      document.write ("Number of Neutrons:163" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 12, 2" + "<br>" );
+      document.write ("Valency:-2" + "<br>" );
+      document.write ("Interesting fact: Seaborgium is of particular interest to fusion research." + "<br>" );
+      break;
+    }
+  case "107":
+    {
+      document.write ("Name of element:Bohrium" + "<br>" );
+      document.write ("Symbol:Bh" + "<br>" );
+      document.write ("Group:7" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:107" + "<br>" );
+      document.write ("Mass Number:270" + "<br>" );
+      document.write ("Number of Protons:107" + "<br>" );
+      document.write ("Number of Electrons:107" + "<br>" );
+      document.write ("Number of Neutrons:163" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 13, 2" + "<br>" );
+      document.write ("Valency:-1" + "<br>" );
+      document.write ("Interesting fact: Bohrium was named after Danish physicist Niels Bohr." + "<br>" );
+      break;
+    }
+  case "108":
+    {
+      document.write ("Name of element:Hassium" + "<br>" );
+      document.write ("Symbol:Hs" + "<br>" );
+      document.write ("Group:8" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:108" + "<br>" );
+      document.write ("Mass Number:277" + "<br>" );
+      document.write ("Number of Protons:108" + "<br>" );
+      document.write ("Number of Electrons:108" + "<br>" );
+      document.write ("Number of Neutrons:169" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 14, 2" + "<br>" );
+      document.write ("Valency:0" + "<br>" );
+      document.write ("Interesting fact: Hassium is a neutral atom in one of its valencies." + "<br>" );
+      break;
+    }
+  case "109":
+    {
+      document.write ("Name of element:Meitnerium" + "<br>" );
+      document.write ("Symbol:Mt" + "<br>" );
+      document.write ("Group:9" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:109" + "<br>" );
+      document.write ("Mass Number:278" + "<br>" );
+      document.write ("Number of Protons:109" + "<br>" );
+      document.write ("Number of Electrons:109" + "<br>" );
+      document.write ("Number of Neutrons:169" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 15, 2" + "<br>" );
+      document.write ("Valency:-2" + "<br>" );
+      document.write ("Interesting fact: The density of Mt metal is calculated to be 37.4 g/cm3 at room temperature. This would give the element the second-highest density of the known elements, after neighboring element hassium, which has a predicted density of 41 g/cm3." + "<br>" );
+      break;
+    }     
+  case "110":
+    {
+      document.write ("Name of element:Darmstadtium" + "<br>" );
+      document.write ("Symbol:Ds" + "<br>" );
+      document.write ("Group:10" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:110" + "<br>" );
+      document.write ("Mass Number:281" + "<br>" );
+      document.write ("Number of Protons:110" + "<br>" );
+      document.write ("Number of Electrons:110" + "<br>" );
+      document.write ("Number of Neutrons:171" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 17, 1" + "<br>" );
+      document.write ("Valency:-2" + "<br>" );
+      document.write ("Interesting fact: It was discovered in Darmstadt, Germany, but there are no naturally occurring or primordial samples of the element on Earth." + "<br>" );
+      break;
+    }
+  case "111":
+    {
+      document.write ("Name of element:Roentgenium" + "<br>" );
+      document.write ("Symbol:Rg" + "<br>" );
+      document.write ("Group:11" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:111" + "<br>" );
+      document.write ("Mass Number:282" + "<br>" );
+      document.write ("Number of Protons:111" + "<br>" );
+      document.write ("Number of Electrons:111" + "<br>" );
+      document.write ("Number of Neutrons:171" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 17, 2" + "<br>" );
+      document.write ("Valency:+3" + "<br>" );
+      document.write ("Interesting fact: Roentgenium metal is predicted to have a density of 28.7 g/cm3 around room temperature." + "<br>" );
+      break;
+    }
+  case "112":
+    {
+      document.write ("Name of element:Copernicium" + "<br>" );
+      document.write ("Symbol:Cn" + "<br>" );
+      document.write ("Group:12" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:112" + "<br>" );
+      document.write ("Mass Number:282" + "<br>" );
+      document.write ("Number of Protons:112" + "<br>" );
+      document.write ("Number of Electrons:112" + "<br>" );
+      document.write ("Number of Neutrons:170" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 18, 2" + "<br>" );
+      document.write ("Valency:+2" + "<br>" );
+      document.write ("Interesting fact: The instability of the element makes it unsuitable for any use in everyday life." + "<br>" );
+      break;
+    }     
+  case "113":
+    {
+      document.write ("Name of element:Nihonium" + "<br>" );
+      document.write ("Symbol:Nh" + "<br>" );
+      document.write ("Group:13" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:113" + "<br>" );
+      document.write ("Mass Number:286" + "<br>" );
+      document.write ("Number of Protons:113" + "<br>" );
+      document.write ("Number of Electrons:113" + "<br>" );
+      document.write ("Number of Neutrons:173" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 18, 3" + "<br>" );
+      document.write ("Valency:+2" + "<br>" ); 
+      document.write ("Interesting fact: The minuscule amount of production of the metal restricts its use to research purposes only." + "<br>" );
+      break;
+    }
+  case "114":
+    {
+      document.write ("Name of element:Flerovium" + "<br>" );
+      document.write ("Symbol:Fl" + "<br>" );
+      document.write ("Group:14" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:114" + "<br>" );
+      document.write ("Mass Number:289" + "<br>" );
+      document.write ("Number of Protons:114" + "<br>" );
+      document.write ("Number of Electrons:114" + "<br>" );
+      document.write ("Number of Neutrons:175" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 18, 4" + "<br>" );
+      document.write ("Valency:+2" + "<br>" ); 
+      document.write ("Interesting fact: Flerovium is named for Russian physicist Georgy Flyorov, founder of the Joint Institute of Nuclear Research in Dubna, Russia, where the element was discovered." + "<br>" );
+      break;
+    }
+
+  case "115":
+    {
+      document.write ("Name of element:Moscovium" + "<br>" );
+      document.write ("Symbol:Mc" + "<br>" );
+      document.write ("Group:15" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:115" + "<br>" );
+      document.write ("Mass Number:290" + "<br>" );
+      document.write ("Number of Protons:115" + "<br>" );
+      document.write ("Number of Electrons:115" + "<br>" );
+      document.write ("Number of Neutrons:175" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 18, 5" + "<br>" );
+      document.write ("Valency:+3" + "<br>" );
+      document.write ("Interesting fact: It is used to make nihonium." + "<br>" );
+      break;
+    }
+  case "116":
+    {
+      document.write ("Name of element:Livermorium" + "<br>" );
+      document.write ("Symbol:Lv" + "<br>" );
+      document.write ("Group:16" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:116" + "<br>" );
+      document.write ("Mass Number:293" + "<br>" );
+      document.write ("Number of Protons:116" + "<br>" );
+      document.write ("Number of Electrons:116" + "<br>" );
+      document.write ("Number of Neutrons:177" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 18, 6" + "<br>" );
+      document.write ("Valency:4" + "<br>" );
+      document.write ("Interesting fact: Livermorium is named for the Lawrence Livermore National Laboratory in California." + "<br>" );
+      break;
+    }     
+  case "117":
+    {
+      document.write ("Name of element:Tennessine" + "<br>" );
+      document.write ("Symbol:Ts" + "<br>" );
+      document.write ("Group:17" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:117" + "<br>" );
+      document.write ("Mass Number:294" + "<br>" );
+      document.write ("Number of Protons:117" + "<br>" );
+      document.write ("Number of Electrons:117" + "<br>" );
+      document.write ("Number of Neutrons:177" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 18, 7" + "<br>" );
+      document.write ("Valency:-1(Predicted )" + "<br>" );
+      document.write ("Interesting fact: At present, tennessine is only used for research. Scientists are investigating the properties of the element and using it to produce atoms of other elements through its decay scheme." + "<br>" );
+      break;
+    }
+  case "118":
+    {
+      document.write ("Name of element:Oganesson" + "<br>" );
+      document.write ("Symbol:Og" + "<br>" );
+      document.write ("Group:18" + "<br>" );
+      document.write ("Period:7" + "<br>" );
+      document.write ("Atomic Number:118" + "<br>" );
+      document.write ("Mass Number:294" + "<br>" );
+      document.write ("Number of Protons:118" + "<br>" );
+      document.write ("Number of Electrons:118" + "<br>" );
+      document.write ("Number of Neutrons:176" + "<br>" );
+      document.write ("Electronic Configuration:2, 8, 18, 32, 32, 18, 8" + "<br>" );
+      document.write ("Valency:0(predicted )" + "<br>" );
+      document.write ("Interesting fact: The Russian team, led by Yuri Oganessian, bombarded californium-249 with calcium-48 ions to produce three atoms of oganesson." + "<br>" );
+      break;
+    }
+}
 }
