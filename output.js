@@ -417,7 +417,7 @@ function askForInput()
               break;
             }
             
-     case"61"    
+        case "61"  :  
     {
      document.write ("Name of element:" + "<br>");
      document.write ("Symbol:" + "<br>");
