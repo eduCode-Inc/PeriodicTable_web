@@ -84,8 +84,7 @@ function askForInput()
              document.write ("Number of Neutrons:50" + "<br>");
              document.write ("Electronic Configuration:2,8,18,9,2" + "<br>");
              document.write ("Valency:+3" + "<br>");
-              System.out.
-            println ("Yttrium is used in Layers that can cut metals" + "<br>");
+            document.write ("Yttrium is used in Layers that can cut metals" + "<br>");
               break;
             }
           case "40":
@@ -117,7 +116,7 @@ function askForInput()
              document.write ("Number of Neutrons:52" + "<br>");
              document.write ("Electronic Configuration:2,8,18,12,1" + "<br>");
              document.write ("Valency:-3" + "<br>");
-             document.write ("Niobium was first known as Colobium(Cb + "<br>")" + "<br>");
+             document.write ("Niobium was first known as Colobium(Cb)" + "<br>");
               break;
             }
           case "42":
