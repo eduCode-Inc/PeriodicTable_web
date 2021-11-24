@@ -1,7 +1,11 @@
 #intro {
           background-color: aquamarine;
+          font-family: 'Courier New', Courier, monospace;
+          font-weight: bolder;
 }
 
 #index {
+           background-color: darkgoldenrod;
            font-family: 'Courier New', Courier, monospace;
+           font-weight: bolder;
 }
