@@ -400,6 +400,159 @@ function askForInput()
               break;
             }
     
+            case "61"  :  
+    {
+     document.write ("Name of element:" + "<br>");
+     document.write ("Symbol:" + "<br>");
+     document.write ("Group:" + "<br>");
+     document.write ("Period:" + "<br>");
+     document.write ("Atomic Number:" + "<br>");
+     document.write ("Mass Number:1" + "<br>");
+     document.write ("Number of Protons:" + "<br>");
+     document.write ("Number of Electrons:" + "<br>");
+     document.write ("Number of Neutrons:" + "<br>");
+     document.write ("Electronic Configuration:" + "<br>");
+     document.write ("Valency:" + "<br>");
+      break;
+    }
+  case "62":
+    {
+     document.write ("Name of element:" + "<br>");
+     document.write ("Symbol:" + "<br>");
+     document.write ("Group:" + "<br>");
+     document.write ("Period:" + "<br>");
+     document.write ("Atomic Number:" + "<br>");
+     document.write ("Mass Number:" + "<br>");
+     document.write ("Number of Protons:" + "<br>");
+     document.write ("Number of Electrons:" + "<br>");
+     document.write ("Number of Neutrons:" + "<br>");
+     document.write ("Electronic Configuration:" + "<br>");
+     document.write ("Valency:" + "<br>");
+      break;
+    }
+  case "63":
+    {
+     document.write ("Name of element:" + "<br>");
+     document.write ("Symbol" + "<br>");
+     document.write ("Group:" + "<br>");
+     document.write ("Period:" + "<br>");
+     document.write ("Atomic Number:" + "<br>");
+     document.write ("Mass Number:" + "<br>");
+     document.write ("Number of Protons:" + "<br>");
+     document.write ("Number of Electrons:" + "<br>");
+     document.write ("Number of Neutrons:" + "<br>");
+     document.write ("Electronic Configuration:" + "<br>");
+     document.write ("Valency:" + "<br>");
+      break;
+    }
+  case "64":
+    {
+     document.write ("Name of element:" + "<br>");
+     document.write ("Symbol:" + "<br>");
+     document.write ("Group:" + "<br>");
+     document.write ("Period:" + "<br>");
+     document.write ("Atomic Number:" + "<br>");
+     document.write ("Mass Number:" + "<br>");
+     document.write ("Number of Protons:" + "<br>");
+     document.write ("Number of Electrons:" + "<br>");
+     document.write ("Number of Neutrons:" + "<br>");
+     document.write ("Electronic Configuration:" + "<br>");
+     document.write ("Valency" + "<br>");
+      break;
+    }
+  case "65":
+    {
+     document.write ("Name of element:" + "<br>");
+     document.write ("Symbol:" + "<br>");
+     document.write ("Group" + "<br>");
+     document.write ("Period:" + "<br>");
+     document.write ("Atomic Number:" + "<br>");
+     document.write ("Mass Number:" + "<br>");
+     document.write ("Number of Protons:" + "<br>");
+     document.write ("Number of Electrons:" + "<br>");
+     document.write ("Number of Neutrons:" + "<br>");
+     document.write ("Electronic Configuration:" + "<br>");
+     document.write ("Valency:" + "<br>");
+
+      break;
+    }
+  case "66":
+    {
+     document.write ("Name of element:" + "<br>");
+     document.write ("Symbol:" + "<br>");
+     document.write ("Group" + "<br>");
+     document.write ("Period:" + "<br>");
+     document.write ("Atomic Number:" + "<br>");
+     document.write ("Mass Number:" + "<br>");
+     document.write ("Number of Protons:" + "<br>");
+     document.write ("Number of Electrons:" + "<br>");
+     document.write ("Number of Neutrons:" + "<br>");
+     document.write ("Electronic Configuration:" + "<br>");
+     document.write ("Valency:" + "<br>");
+      break;
+    }
+  case "67":
+    {
+     document.write ("Name of element:" + "<br>");
+     document.write ("Symbol:" + "<br>");
+     document.write ("Group" + "<br>");
+     document.write ("Period:" + "<br>");
+     document.write ("Atomic Number:" + "<br>");
+     document.write ("Mass Number:" + "<br>");
+     document.write ("Number of Protons:" + "<br>");
+     document.write ("Number of Electrons:" + "<br>");
+     document.write ("Number of Neutrons:" + "<br>");
+     document.write ("Electronic Configuration:" + "<br>");
+     document.write ("Valency:" + "<br>");
+      break;
+    }
+  case "68":
+    {
+     document.write ("Name of element:" + "<br>");
+     document.write ("Symbol:" + "<br>");
+     document.write ("Group:" + "<br>");
+     document.write ("Period:" + "<br>");
+     document.write ("Atomic Number:" + "<br>");
+     document.write ("Mass Number:" + "<br>");
+     document.write ("Number of Protons:" + "<br>");
+     document.write ("Number of Electrons:" + "<br>");
+     document.write ("Number of Neutrons:" + "<br>");
+     document.write ("Electronic Configuration:" + "<br>");
+     document.write ("Valency" + "<br>");
+      break;
+    }
+  case "69":
+    {
+     document.write ("Name of element:" + "<br>");
+     document.write ("Symbol:" + "<br>");
+     document.write ("Group:" + "<br>");
+     document.write ("Period:" + "<br>");
+     document.write ("Atomic Number:" + "<br>");
+     document.write ("Mass Number:" + "<br>");
+     document.write ("Number of Protons:" + "<br>");
+     document.write ("Number of Electrons:" + "<br>");
+     document.write ("Number of Neutrons:" + "<br>");
+     document.write ("Electronic Configuration:" + "<br>");
+     document.write ("Valency:" + "<br>");
+      break;
+    }
+
+  case "70":
+    {
+     document.write ("Name of element:" + "<br>");
+     document.write ("Symbol:" + "<br>");
+     document.write ("Group:" + "<br>");
+     document.write ("Period:" + "<br>");
+     document.write ("Atomic Number:" + "<br>");
+     document.write ("Mass Number:" + "<br>");
+     document.write ("Number of Protons:" + "<br>");
+     document.write ("Number of Electrons:" + "<br>");
+     document.write ("Number of Neutrons:" + "<br>");
+     document.write ("Electronic Configuration:" + "<br>");
+     document.write ("Valency:" + "<br>");
+      break; 
+
+    }
           case "60":
             {
              document.write ("Name of element:Neodymium" + "<br>");
