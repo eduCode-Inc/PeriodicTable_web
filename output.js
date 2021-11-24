@@ -149,8 +149,7 @@ function askForInput()
              document.write ("Number of Neutrons:55" + "<br>");
              document.write ("Electronic Configuration:2,8,18,13,2" + "<br>");
              document.write ("Valency:-1" + "<br>");
-              System.out.
-            println ("Technetium is the very first man-made element" + "<br>");
+          document.write("Technetium is the very first man-made element" + "<br>");
               break;
             }
           case "44":
