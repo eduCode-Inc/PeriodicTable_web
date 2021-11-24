@@ -2,12 +2,13 @@
           background-color: rgb(206, 255, 127);
           font-family: 'Courier New', Courier, monospace;
           font-weight: bolder;
+          font-size: larger;
           
         }
 
 #index {
            
-           font-family: 'Courier New', Courier, monospace;
+           font-family:'Times New Roman', Times, serif
            font-weight: bolder;
-}
+}           
 #os{ }
