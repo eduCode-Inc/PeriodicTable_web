@@ -1,8 +1,8 @@
 #intro {
-          background-color: aquamarine;
+          background-color: rgb(206, 255, 127);
           font-family: 'Courier New', Courier, monospace;
           font-weight: bolder;
-}
+        }
 
 #index {
            background-color: darkgoldenrod;
