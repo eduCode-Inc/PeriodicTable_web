@@ -1,9 +1,8 @@
 #intro {
-          background-color: rgb(206, 255, 127);
           font-family: 'Courier New', Courier, monospace;
           font-weight:bolder;
           font-size: larger;
-          
+          color: whitesmoke;
         }
 
 #index {
@@ -12,5 +11,9 @@
            font-weight:bolder;
            font-size:larger;
           font-style:italic;
+          color: whitesmoke;
 }           
 
+body {
+  background-image: url("https://wallpapercave.com/wp/ZFbENTR.jpg"); 
+}

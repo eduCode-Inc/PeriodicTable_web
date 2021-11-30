@@ -193,6 +193,7 @@ function askForInput()
                 document.writeln("<br>Some interesting facts about Zinc:<br>Zinc, a nutrient found throughout your body, helps your immune system and metabolism function. Zinc is also important to wound healing and your sense of taste and smell<br> Corrosion-resistant zinc plating of iron (hot-dip galvanizing) is the major application for zinc<br>Other applications are in electrical batteries and die-castings, which are important in the automobile, electrical and hardware industries<br>");
                 break;
               }
+              //where is 31 - 34??
           case "35":
             {
              document.write ("Name of element:Bromine" + "<br>");
@@ -584,177 +585,215 @@ function askForInput()
             break;
             }
     
-            case "61"  :  
-    {
-     document.write ("Name of element:" + "<br>");
-     document.write ("Symbol:" + "<br>");
-     document.write ("Group:" + "<br>");
-     document.write ("Period:" + "<br>");
-     document.write ("Atomic Number:" + "<br>");
-     document.write ("Mass Number:" + "<br>");
-     document.write ("Number of Protons:" + "<br>");
-     document.write ("Number of Electrons:" + "<br>");
-     document.write ("Number of Neutrons:" + "<br>");
-     document.write ("Electronic Configuration:" + "<br>");
-     document.write ("Valency:" + "<br>");
-      break;
-    }
-  case "62":
-    {
-     document.write ("Name of element:" + "<br>");
-     document.write ("Symbol:" + "<br>");
-     document.write ("Group:" + "<br>");
-     document.write ("Period:" + "<br>");
-     document.write ("Atomic Number:" + "<br>");
-     document.write ("Mass Number:" + "<br>");
-     document.write ("Number of Protons:" + "<br>");
-     document.write ("Number of Electrons:" + "<br>");
-     document.write ("Number of Neutrons:" + "<br>");
-     document.write ("Electronic Configuration:" + "<br>");
-     document.write ("Valency:" + "<br>");
-      break;
-    }
-  case "63":
-    {
-     document.write ("Name of element:" + "<br>");
-     document.write ("Symbol" + "<br>");
-     document.write ("Group:" + "<br>");
-     document.write ("Period:" + "<br>");
-     document.write ("Atomic Number:" + "<br>");
-     document.write ("Mass Number:" + "<br>");
-     document.write ("Number of Protons:" + "<br>");
-     document.write ("Number of Electrons:" + "<br>");
-     document.write ("Number of Neutrons:" + "<br>");
-     document.write ("Electronic Configuration:" + "<br>");
-     document.write ("Valency:" + "<br>");
-      break;
-    }
-  case "64":
-    {
-     document.write ("Name of element:" + "<br>");
-     document.write ("Symbol:" + "<br>");
-     document.write ("Group:" + "<br>");
-     document.write ("Period:" + "<br>");
-     document.write ("Atomic Number:" + "<br>");
-     document.write ("Mass Number:" + "<br>");
-     document.write ("Number of Protons:" + "<br>");
-     document.write ("Number of Electrons:" + "<br>");
-     document.write ("Number of Neutrons:" + "<br>");
-     document.write ("Electronic Configuration:" + "<br>");
-     document.write ("Valency" + "<br>");
-      break;
-    }
-  case "65":
-    {
-     document.write ("Name of element:" + "<br>");
-     document.write ("Symbol:" + "<br>");
-     document.write ("Group" + "<br>");
-     document.write ("Period:" + "<br>");
-     document.write ("Atomic Number:" + "<br>");
-     document.write ("Mass Number:" + "<br>");
-     document.write ("Number of Protons:" + "<br>");
-     document.write ("Number of Electrons:" + "<br>");
-     document.write ("Number of Neutrons:" + "<br>");
-     document.write ("Electronic Configuration:" + "<br>");
-     document.write ("Valency:" + "<br>");
-
-      break;
-    }
-  case "66":
-    {
-     document.write ("Name of element:" + "<br>");
-     document.write ("Symbol:" + "<br>");
-     document.write ("Group" + "<br>");
-     document.write ("Period:" + "<br>");
-     document.write ("Atomic Number:" + "<br>");
-     document.write ("Mass Number:" + "<br>");
-     document.write ("Number of Protons:" + "<br>");
-     document.write ("Number of Electrons:" + "<br>");
-     document.write ("Number of Neutrons:" + "<br>");
-     document.write ("Electronic Configuration:" + "<br>");
-     document.write ("Valency:" + "<br>");
-      break;
-    }
-  case "67":
-    {
-     document.write ("Name of element:" + "<br>");
-     document.write ("Symbol:" + "<br>");
-     document.write ("Group" + "<br>");
-     document.write ("Period:" + "<br>");
-     document.write ("Atomic Number:" + "<br>");
-     document.write ("Mass Number:" + "<br>");
-     document.write ("Number of Protons:" + "<br>");
-     document.write ("Number of Electrons:" + "<br>");
-     document.write ("Number of Neutrons:" + "<br>");
-     document.write ("Electronic Configuration:" + "<br>");
-     document.write ("Valency:" + "<br>");
-      break;
-    }
-  case "68":
-    {
-     document.write ("Name of element:" + "<br>");
-     document.write ("Symbol:" + "<br>");
-     document.write ("Group:" + "<br>");
-     document.write ("Period:" + "<br>");
-     document.write ("Atomic Number:" + "<br>");
-     document.write ("Mass Number:" + "<br>");
-     document.write ("Number of Protons:" + "<br>");
-     document.write ("Number of Electrons:" + "<br>");
-     document.write ("Number of Neutrons:" + "<br>");
-     document.write ("Electronic Configuration:" + "<br>");
-     document.write ("Valency" + "<br>");
-      break;
-    }
-  case "69":
-    {
-     document.write ("Name of element:" + "<br>");
-     document.write ("Symbol:" + "<br>");
-     document.write ("Group:" + "<br>");
-     document.write ("Period:" + "<br>");
-     document.write ("Atomic Number:" + "<br>");
-     document.write ("Mass Number:" + "<br>");
-     document.write ("Number of Protons:" + "<br>");
-     document.write ("Number of Electrons:" + "<br>");
-     document.write ("Number of Neutrons:" + "<br>");
-     document.write ("Electronic Configuration:" + "<br>");
-     document.write ("Valency:" + "<br>");
-      break;
-    }
-
-  case "70":
-    {
-     document.write ("Name of element:" + "<br>");
-     document.write ("Symbol:" + "<br>");
-     document.write ("Group:" + "<br>");
-     document.write ("Period:" + "<br>");
-     document.write ("Atomic Number:" + "<br>");
-     document.write ("Mass Number:" + "<br>");
-     document.write ("Number of Protons:" + "<br>");
-     document.write ("Number of Electrons:" + "<br>");
-     document.write ("Number of Neutrons:" + "<br>");
-     document.write ("Electronic Configuration:" + "<br>");
-     document.write ("Valency:" + "<br>");
-      break; 
-
-    }
-          case "60":
-            {
-             document.write ("Name of element:Neodymium" + "<br>");
-             document.write ("Symbol:Nd" + "<br>");
-             document.write ("Group:Lanthanides" + "<br>");
-             document.write ("Period:6" + "<br>");
-             document.write ("Atomic Number:60" + "<br>");
-             document.write ("Mass Number:144" + "<br>");
-             document.write ("Number of Protons:60" + "<br>");
-             document.write ("Number of Electrons:60" + "<br>");
-             document.write ("Number of Neutrons:84" + "<br>");
-             document.write ("Electronic Configuration:2,8,18,22,8,2" + "<br>");
-             document.write ("Valency:2,3,4" + "<br>");
+            case "60":
+              {
+               document.write ("Name of element:Neodymium" + "<br>");
+               document.write ("Symbol:Nd" + "<br>");
+               document.write ("Group:Lanthanides" + "<br>");
+               document.write ("Period:6" + "<br>");
+               document.write ("Atomic Number:60" + "<br>");
+               document.write ("Mass Number:144" + "<br>");
+               document.write ("Number of Protons:60" + "<br>");
+               document.write ("Number of Electrons:60" + "<br>");
+               document.write ("Number of Neutrons:84" + "<br>");
+               document.write ("Electronic Configuration:2,8,18,22,8,2" + "<br>");
+               document.write ("Valency:2,3,4" + "<br>");
+              break;
+              }
+              case "61":
+                {
+                  document.write
+                ("Name of element: Promethium<br>Symbol: Pm<br>Atomic number: 61<br>Mass number: 145<br>Number of protons: 61<br>Number of electrons: 61<br>Number of Neutrons: 84<br>Electronic configuration: 2,8,18,23,8,2<br>Valency: 3<br>Period: 6<br>Group: 8");
+                  document.write
+                ("<br>Some interesting facts about Promethium: <br>The name of this element was dreived from the Greek Titan Prometheus, who stole fire from Mount Olympus and brought it down to humans, thus leading to the discovery of fire, according to legend!");
+                  break;
+                }
+              case "62":
+                {
+                  document.write
+                ("Name of element: Samarium<br>Symbol: Sm<br>Atomic number: 62<br>Mass number: 150<br>Number of protons: 62<br>Number of electrons: 62<br>Number of Neutrons: 88<br>Electronic configuration: 2,8,18,24,8,2<br>Valency: 3<br>Period: 6<br>Group: 9");
+                  document.write
+                ("<br>Some interesting facts about Samarium: <br>Samarium was discovered in 1879 by the French chemist Paul-C    mile Lecoq de Boisbaudran and named after the mineral samarskite from which it was isolated.");
+                  break;
+                }
+              case "63":
+                {
+                  document.write
+                ("Name of element: Europium<br>Symbol: Eu<br>Atomic number: 63<br>Mass number: 152<br>Number of protons: 63<br>Number of electrons: 63<br>Number of Neutrons: 89<br>Electronic configuration: 2,8,18,25,8,2<br>Valency: 3<br>Period: 6<br>Group: 10");
+                  document.write
+                ("<br>Some interesting facts about Europium: <br>Europium is the most reactive rare-earth element. It rapidly oxidizes in air, so that bulk oxidation of a centimeter-sized sample occurs within several days.");
+                  break;
+                }
+              case "64":
+                {
+                  document.write
+                ("Name of element: Gadolinium<br>Symbol: Gd<br>Atomic number: 64<br>Mass number: 157<br>Number of protons: 64<br>Number of electrons: 64<br>Number of Neutrons: 93<br>Electronic configuration: 2,8,18,25,9,2<br>Valency: 3<br>Period: 6<br>Group: 11");
+                  document.write
+                ("<br>Some interesting facts about Gadolinium: <br>Varying amounts of Gadolinium deposit in tissues of the brain, cardiac muscle, kidney, other organs and the skin");
+                  break;
+                }
+              case "65":
+                {
+                  document.write
+                ("Name of element: Terbium<br>Symbol: Tb<br>Atomic number: 65<br>Mass number: 159<br>Number of protons: 65<br>Number of electrons: 65<br>Number of Neutrons: 94<br>Electronic configuration: 2,8,18,27,8,2<br>Valency: 3<br>Period: 6<br>Group: 12");
+                  document.write
+                ("<br>Some interesting facts about Terbium: <br>Yttrium and terbium, as well as erbium and ytterbium, are named after the village of Ytterby in Sweden!");
+                  break;
+                }
+              case "66":
+                {
+                  document.write
+                ("Name of the element: Dysprasium<br>Symbol: Dy<br>Atomic Number: 66<br>Mass number: 162<br>Number of protons: 66<br>Number of electrons: 66<br>Number of neutrons: 96<br>Electronic Configuration: 2,8,18,28,8,2<br>Valency: 3<br>Period: 6<br>Group: 13");
+                  document.write
+                ("<br>Some interesting facts about Dysprasium: <br>It is used for its high thermal neutron absorption cross-section in making control rods in nuclear reactors and for its high magnetic susceptibility in data-storage applications!");
+                  break;
+                }
+              case "67":
+                {
+                  document.write
+                ("Name of the element: Halmium<br>Symbol: Ho<br>Atomic number: 67<br>Mass number: 165<br>Number of protons: 67<br>Number of electrons: 67<br>Number of neutrons: 98<br>Electronic Configuration: 2,8,18,29,8,2<br>Valency: 3<br>Period: 6<br>Group: 14");
+                  document.write
+                ("<br>Some interesting facts about Halmium: <br>Halmium is used in the same way as some other rare earths in certain laser and glass-colorant applications!");
+                break;
+                }
+                case "68":
+                {
+                    document.write("Name of the element: Erbium<br>Symbol: Er<br>Atomic Number: 68<br>Mass number: 167<br>Number of protons: 68<br>Number of electrons: 68<br>Number of neutrons: 99<br>Electronic Configuration: 2,8,18,30,8,2<br>Valency: 3<br>Period: 6<br>Group: 15");
+                    document.write("<br>Some interesting facts about Erbium: <br>It has optical fluorescent properties particularly useful in certain laser applications.");
+                    break;
+                }
+                case "69":
+                {
+                    document.write("Name of the element: Thulium<br>Symbol: Tm<br>Atomic Number: 69<br>Mass number: 169<br>Number of protons: 69<br>Number of electrons: 69<br>Number of neutrons: 100<br>Electronic Configuration: 2,8,18,31,8,2<br>Valency: 3<br>Period: 6<br>Group: 16");
+                    document.write("<br>Some interesting facts about Thulium: <br>Despite its high price and rarity, Thulium is used as the radiation source in portable X-ray devices, and in some solid-state lasers!");
+                    break;
+                }
+                case "70":
+                {
+                    document.write("Name of the element: Ytterbium<br>Symbol: Yb<br>Atomic Number: 70<br>Mass number: 173<br>Number of protons: 70<br>Number of electrons: 70<br>Number of neutrons: 103<br>Electronic Configuration: 2,8,18,32,8,2<br>Valency: 3<br>Period: 6<br>Group: 17");
+                    document.write("<br>Some interesting facts about Ytterbium: <br>This element is mined in China, the United States, Brazil, and India in form of the minerals monazite, euxenite, and xenotime.");
+                    break;
+                }
+                case "71":
+        {
+            document.write("Name of the element: Lutetium<br>Symbol: Lu<br>Atomic Number: 71<br>Mass Number: 175<br>Number of protons: 71<br>Number of electrons: 71<br>Number of neutrons: 104<br>Electronic Configuration: 2,8,18,32,9,2<br>Valency: 3<br>Period: 6<br>Group: 18");
+            document.write("<br>Some interesting facts about Lutetium: <br>Lutetium has the highest Brinell hardness of any lanthanide, at 890–1300 MPa!");
             break;
-            }
-            
-    
-  
+        }
+        case "72":
+        {
+            document.write("Name of the element: Hafnium<br>Symbol: Hf<br>Atomic Number: 72<br>Mass number: 178<br>Number of protons: 72<br>Number of electrons: 72<br>Number of neutrons: 106<br>Electronic Configuration: 2,8,18,32,10,2<br>Valency: 4<br>Period: 6<br>Group: 4");
+            document.write("<br>Some interesting facts about Hafnium: <br>Hafnium's large neutron capture cross section makes it a good material for neutron absorption in control rods in nuclear power plants!");
+            break;
+        }
+        case "73":
+        {
+            document.write("Name of the element: Tantalum<br>Symbol: Ta<br>Atomic Number: 73<br>Mass number: 181<br>Number of protons: 73<br>Number of electrons: 73<br>Number of neutrons: 108<br>Electronic Configuration: 2,8,18,32,11,2<br>Valency: 5<br>Period: 6<br>Group: 5");
+            document.write("<br>Some interesting facts about Tantalum: <br>Tantalum is actually considered a technology-critical element.");
+            break;
+        }
+        case "74":
+        {
+            document.write("Name of the element: Tungsten<br>Symbol: W<br>Atomic Number: 74<br>Mass number: 184<br>Number of protons: 74<br>Number of electrons: 74<br>Number of neutrons: 110<br>Electronic Configuration: 2,8,18,32,12,2<br>Valency: 6<br>Period: 6<br>Group: 6");
+            document.write("<br>Some interesting facts about Tungsten: <br>Tungsten is the only metal in the third transition series that is known to occur in biomolecules, being found in a few species of bacteria and archaea.");
+            break;
+        }
+        case "75":
+        {
+            document.write("Name of the element: Rhenium<br>Symbol: Re<br>Atomic Number: 75<br>Mass number: 186<br>Number of protons: 75<br>Number of electrons: 75<br>Number of neutrons: 111<br>Electronic Configuration: 2,8,18,32,13,2<br>Valency: 7<br>Period: 6<br>Group: 7");
+            document.write("<br>Some interesting facts about Rhenium: <br>Discovered in 1925, rhenium was the last stable element to be discovered. It was named after the river Rhine in Europe.");
+            break;
+        }
+        case "76":
+        {
+            document.write("Name of the element: Osmium<br>Symbol: Os<br>Atomic Number: 76<br>Mass Number: 186<br>Number of protons: 76<br>Number of electrons: 76<br>Numebr of neutrons: 110<br>Electronic Configuration: 2,8,18,32,14,2<br>Valency: 6<br>Period: 6<br>Group: 8");
+            document.write("<br>Some interesting facts about Osmium: <br>Osmium is the densest naturally occurring element, with an experimentally measured density of 22.59 g/cm3.");
+            break;
+        }
+        case "77":
+        {
+            document.write("Name of the element: Iridium<br>Symbol: Ir<br>Atomic Number: 77<br>Mass Number: 192<br>Number of protons: 77<br>Number of electrons: 77<br>Number of neutrons: 115<br>Electronic Configuration: 2,8,18,32,15,2<br>Valency: 6<br>Period: 6<br>Group: 9");
+            document.write("<br>Some interesting facts about Iridium: <br>Iridium is found in meteorites in much higher abundance than in the Earth's crust.");
+            break;
+        }
+        case "78":
+        {
+            document.write("Name of the element: Platinum<br>Symbol: Pt<br>Atomic Number: 78<br>Mass Number: 195<br>Number of protons: 78<br>Number of electrons: 78<br>Number of neutrons: 117<br>Electronic Configuration:     2,8,18,32,17,1<br>Valency: 6<br>Period: 6<br>Group: 10");
+            document.write("<br>Some interesting facts about Platinum: <br>During World War II, non-military use of Platinum was banned in the United States, as it was deemed a strategic metal.");
+            break;
+        }
+        case "79":
+        {
+            document.write("Name of the element: Gold<br>Symbol: Au<br>Atomic Number: 79<br>Mass Number: 197<br>Numebr of protons: 79<br>Number of electrons: 79<br>Number of neutrons: 118<br>Electronic Configuration: 2,8,18,32,18,1<br>Valency: 5<br>Period: 6<br>Group: 11");
+            document.write("<br>Some interesting facts about Gold: <br>A relatively rare element, gold is a precious metal that has been used for coinage, jewelry, and other arts throughout recorded history! Even you probably know about it!");
+            break;
+        }
+        case "80":
+        {
+            document.write("Name of the element: Mercury<br>Symbol: Hg<br>Atomic Number: 80<br>Mass Number: 201<br>Number of protons: 80<br>Number of electrons: 80<br>Number of neutrons: 121<br>Electronic Configuration: 2,8,18,32,18,2<br>Valency: 2<br>Period: 6<br>Group: 12");
+            document.write("<br>Some interesting facts about Mercury: <br>Mercury is used in thermometers, barometers, manometers, sphygmomanometers, float valves, mercury switches, mercury relays, fluorescent lamps and other devices.");
+            break;
+        }
+        case "81":
+        {
+            document.write("Name of the element: Thallium<br>Symbol: TI<br>Atomic Number: 81<br>Mass Number: 204<br>Number of protons: 81<br>Number of electrons: 81<br>Number of neutrons: 123<br>Electronic Configuration:     2,8,18,32,18,3<br>Valency: 3<br>Period: 6<br>Group: 13");
+            document.write("<br>Some interesting facts about Thallium: <br>Soluble thallium salts (many of which are nearly tasteless) are highly toxic, and they were historically used in rat poisons and insecticides.");
+            break;
+        }
+        case "82":
+        {
+            document.write("Name of the element: Lead<br>Symbol: Pb<br>Atomic Number: 82<br>Mass Number: 207<br>Number of protons: 82<br>Number of electrons: 82<br>Number of neutrons: 125<br>Electronic Configuration: 2,8,18,32,18,4<br>Valency: 4<br>Period: 6<br>Group: 14");
+            document.write("<br>Some interesting facts about Lead: <br>Contrary to popular belief, pencil leads in wooden pencils have never been made from lead. When the pencil originated as a wrapped graphite writing tool, the particular type of graphite used was named plumbago.");
+            break;
+        }
+        case "83":
+        {
+            document.write("Name of the element: Bismuth<br>Symbol: Bi<br>Atomic Number: 83<br>Mass Number: 209<br>Number of protons: 83<br>Numebr of electrons: 83<br>Number of neutrons: 126<br>Electronic Configuration: 2,8,18,32,18,5<br>Valency: 5<br>Period: 6<br>Group: 15");
+            document.write("<br>Some interesting facts about Bismuth: <br>As the toxicity of lead has become more apparent in recent years, there is an increasing use of bismuth alloys (presently about a third of bismuth production) as a replacement for lead.");
+            break;
+        }
+        case "84":
+        {
+            document.write("Name of the element: Polonium<br>Symbol: Po<br>Atomic Number: 84<br>Mass Number: 209<br>Number of protons: 84<br>Number of electrons: 84<br>Number of neutrons: 125<br>Electronic Configuration: 2,8,18,32,18,6<br>Valency: 6<br>Period: 6<br>Group: 16");
+            document.write("<br>Some interesting facts about Polonium: <br>Polonium was discovered in July 1898 by Marie and Pierre Curie, when it was extracted from the uranium ore pitchblende and identified solely by its strong radioactivity: it was the first element to be so discovered. Polonium was named after Marie Curie's homeland of Poland.");
+            break;
+        }
+        case "85":
+        {
+            document.write("Name of the element: Astatine<br>Symbol: At<br>Atomic Number: 85<br>Mass Number: 210<br>Number of protons: 85<br>Number of electrons: 85<br>Number of neutrons: 125<br>Electronic Configuration: 2,8,18,32,18,7<br>Valency: 7<br>Period: 6<br>group: 17");
+            document.write("<br>Some interesting facts about Astatine: <br>The first synthesis of the Astatine was in 1940 by Dale R. Corson, Kenneth Ross MacKenzie, and Emilio G. Segrè at the University of California, Berkeley, who named it from the Greek astatos, meaning 'unstable'.");
+            break;
+        }
+        case "86":
+        {
+            document.write("Name of the element: Radon<br>Symbol: Rn<br>Atomic Number: 86<br>Mass Number: 222<br>Number of protons: 86<br>Number of electrons: 86<br>Number of neutrons: 136<br>Electronic Configuration: 2,8,18,32,18,8<br>Valency: 6<br>Period: 6<br>Group: 18");
+            document.write("<br>Some interesting facts about Radon: <br>Radon has been produced commercially for use in radiation therapy.");
+            break;
+        }
+        case "87":
+        {
+            document.write("Name of the element: Francium<br>Symbol: Fr<br>Atomic Number: 87<br>Mass Number: 223<br>Number of protons: 87<br>Number of electrons: 87<br>Number of neutrons: 136<br>Electronic Configuration: 2,8,18,32,18,8,1<br>Valency: 1<br>Period: 7<br>Group: 1");
+            document.write("<br>Some interesting facts about Francium: <br>Francium was discovered by Marguerite Perey in France (from which the element takes its name) in 1939. It was the last element first discovered in nature");
+            break;
+        }
+        case "88":
+        {
+            document.write("Name of the element: Radium<br>Symbol: Ra<br>Atomic Number: 88<br>Mass Number: 226<br>Number of protons: 88<br>Number of electrons: 88<br>Numebr of neutrons: 138<br>Electronic Configuration: 2,8,18,32,18,8,2<br>Valency: 2<br>Period: 7<br>Group: 2");
+            document.write("<br>Some interesting facts about Radium: <br>Radium was discovered by Marie Skłodowska-Curie and her husband Pierre Curie on 21 December 1898, in a uraninite sample from Jáchymov.");
+            break;
+        }
+        case "89":
+        {
+            document.write("Name of the element: Actinium<br>Symbol: Ac<br>Atomic Number: 89<br>Mass Number: 227<br>Number of protons: 89<br>Numebr of electrons: 89<br>Numebr of neutrons: 138<br>Electronic Configuration: 2,8,18,32,18,9,2<br>Valency: 3<br>Period: 7<br>Group: 3");
+            document.write("<br>Some interesting facts about Actinium: <br>Actinium is currently being studied for use in cancer treatments such as targeted alpha therapies.");
+            break;
+        }
+        case "90":
+        {
+            document.write("Name of the element: Thorium<br>Symbol: Th<br>Atomic Number: 90<br>Mass Number: 232<br>Numebr of protons: 90<br>Numebr of electrons: 90<br>Number of neutrons: 142<br>Electronic Configuration: 2,8,18,32,18,10,2<br>Valency: 4<br>Period: 7<br>Group: 5");
+            document.write("<br>Some interesting facts about Thorium: <br>Energy, some of it in the form of visible light, is emitted when thorium is exposed to a source of energy itself, such as a cathode ray, heat, or ultraviolet light.");
+            break;
+        }
     case "106":
     {
       document.write ("Name of element:Seaborgium" + "<br>" );
