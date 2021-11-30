@@ -1,7 +1,7 @@
 function askForInput()
 { 
-    while(true) {
-    a1 = prompt("Enter Atomic Number. To exit, enter \"EXIT\" in block letters" )
+    
+    a1 = prompt("Enter Atomic Number" )
       switch(a1)
       {
           case "1":
@@ -960,17 +960,11 @@ function askForInput()
       document.write ("Number of Electrons:118" + "<br>" );
       document.write ("Number of Neutrons:176" + "<br>" );
       document.write ("Electronic Configuration:2, 8, 18, 32, 32, 18, 8" + "<br>" );
-      document.write ("Valency:0(predicted )" + "<br>" );
+      document.write ("Valency: 0(predicted )" + "<br>" );
       document.write ("Interesting fact: The Russian team, led by Yuri Oganessian, bombarded californium-249 with calcium-48 ions to produce three atoms of oganesson." + "<br>" );
       break;
     }
-  case "EXIT":
-    {
-        document.writeln("You have chosen to exit the program\nVisit again to keep learning!");
-        document.writeln("Made with GitHub.");
-        process.exit(0);
-    }
+  
        
-}
 }
 }
