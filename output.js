@@ -1003,7 +1003,13 @@ function askForInput()
       document.write ("Interesting fact: The Russian team, led by Yuri Oganessian, bombarded californium-249 with calcium-48 ions to produce three atoms of oganesson." + "<br>" );
       break;
     }
-  
+    default:
+      {
+        alert("Please enter a number between 1 and 118 to see information about an element.");
+      }
        
 }
+    document.write('<p class = "summary">' + "Thank for using eduCode's product. To know more about eduCode, click on the link below" + "<br>" + '</p>');
+    document.write('<div class = "summary">' + "<a href = 'https://sites.google.com/view/educode-inc'> eduCode Inc. </a>" + "<br>" + '</div>');    
+    document.write('<p class = "summary">' + "Had problems with the product? Contact customer service now: " + '<a href = "mailto: educode2021@outlook.com">' + "Click Here" + '</a>' + "</p>");
 }
