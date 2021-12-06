@@ -194,6 +194,75 @@ function askForInput()
                 break;
               }
               //where is 31 - 34??
+              case "31":
+        {
+          document.writeln ("Name of element:Gallium");
+          document.writeln ("Symbol:Ga");
+          document.writeln ("Group:13");
+          document.writeln ("Period:4");
+          document.writeln ("Atomic Number:31");
+          document.writeln ("Mass Number:70");
+          document.writeln ("Number of Protons:31");
+          document.writeln ("Number of Electrons:31");
+          document.writeln ("Number of Neutrons:39");
+          document.writeln ("Electronic Configuration:2,8,18,3");
+          document.writeln ("Valency:+3");
+          document.writeln
+        ("The Mind Blowing thing about this element is that it can melt in our hands");
+          break;
+        }
+      case "32":
+        {
+          document.writeln ("Name of element:Germainium");
+          document.writeln ("Symbol:Ge");
+          document.writeln ("Group:14");
+          document.writeln ("Period:4");
+          document.writeln ("Atomic Number:32");
+          document.writeln ("Mass Number:73");
+          document.writeln ("Number of Protons:32");
+          document.writeln ("Number of Electrons:32");
+          document.writeln ("Number of Neutrons:41");
+          document.writeln ("Electronic Configuration:2,8,18,4");
+          document.writeln ("Valency:4");
+          System.out.
+        println ("It was discovered in 1886 by Clemens Winkler");
+          break;
+        }
+
+      case "33":
+        {
+          document.writeln ("Name of element:Arsenic");
+          document.writeln ("Symbol:As");
+          document.writeln ("Group:15");
+          document.writeln ("Period:4");
+          document.writeln ("Atomic Number:33");
+          document.writeln ("Mass Number:75");
+          document.writeln ("Number of Protons:33");
+          document.writeln ("Number of Electrons:33");
+          document.writeln ("Number of Neutrons:42");
+          document.writeln ("Electronic Configuration:2,8,18,5");
+          document.writeln ("Valency:-3");
+          document.writeln
+        ("Brittle Grey Arsenic is the Most Stable form of element");
+          break;
+        }
+      case "34":
+        {
+          document.writeln ("Name of element:Selenium");
+          document.writeln ("Symbol:Se");
+          document.writeln ("Group:16");
+          document.writeln ("Period:4");
+          document.writeln ("Atomic Number:34");
+          document.writeln ("Mass Number:79");
+          document.writeln ("Number of Protons:34");
+          document.writeln ("Number of Electrons:34");
+          document.writeln ("Number of Neutrons:45");
+          document.writeln ("Electronic Configuration:2,8,18,6");
+          document.writeln ("Valency:-2");
+          document.writeln
+        ("Selenium plays Critical role in Metabolism and Thyroid function");
+          break;
+        }
           case "35":
             {
              document.write ("Name of element:Bromine" + "<br>");
@@ -794,6 +863,246 @@ function askForInput()
             document.write("<br>Some interesting facts about Thorium: <br>Energy, some of it in the form of visible light, is emitted when thorium is exposed to a source of energy itself, such as a cathode ray, heat, or ultraviolet light.");
             break;
         }
+        case "91":
+          {
+            document.writeln ("Name of element:Protactinium");
+            document.writeln ("Symbol:Pa");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:91");
+            document.writeln ("Mass Number:231");
+            document.writeln ("Number of Protons:91");
+            document.writeln ("Number of Electrons:91");
+            document.writeln ("Number of Neutrons:140");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 20, 9, 2");
+            document.writeln ("Valency:-3");
+            document.writeln ("Interesting fact: Protactinium is used mainly for research purposes. Protactinium-231 combined with the thorium-230 can be used to date marine sediments.");
+            break;
+          }
+        case "92":
+          {
+            document.writeln ("Name of element:Uranium");
+            document.writeln ("Symbol:U");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:92");
+            document.writeln ("Mass Number:238");
+            document.writeln ("Number of Protons:92");
+            document.writeln ("Number of Electrons:92");
+            document.writeln ("Number of Neutrons:146");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 21, 9, 2");
+            document.writeln ("Valency:-2");
+            document.writeln ("Interesting fact: Uranium can help us work out the age of minerals.");
+            break;
+          }
+        case "93":
+          {
+            document.writeln ("Name of element:Neptunium");
+            document.writeln ("Symbol:Np");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:93");
+            document.writeln ("Mass Number:237");
+            document.writeln ("Number of Protons:93");
+            document.writeln ("Number of Electrons:93");
+            document.writeln ("Number of Neutrons:144");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 22, 9, 2");
+            document.writeln ("Valency:-1");
+            document.writeln ("Interesting fact: Neptunium has been used in detectors of high-energy neutrons.");
+            break;
+          }
+        case "94":
+          {
+            document.writeln ("Name of element:Plutonium");
+            document.writeln ("Symbol:Pu");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:94");
+            document.writeln ("Mass Number:244");
+            document.writeln ("Number of Protons:94");
+            document.writeln ("Number of Electrons:94");
+            document.writeln ("Number of Neutrons:150");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 24, 8, 2");
+            document.writeln ("Valency:-1");
+            document.writeln ("Interesting fact: Plutonium has been used to make nuclear weapons like atomic bombs.");
+            break;
+          }
+        case "95":
+          {
+            document.writeln ("Name of element:Americium");
+            document.writeln ("Symbol:Am");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:95");
+            document.writeln ("Mass Number:243");
+            document.writeln ("Number of Protons:95");
+            document.writeln ("Number of Electrons:95");
+            document.writeln ("Number of Neutrons:148");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 25, 8, 2");
+            document.writeln ("Valency:-1");
+            document.writeln ("Interesting fact: Americium is very commonly used in smoke alarms.");
+            break;
+          }
+        case "96":
+          {
+            document.writeln ("Name of element:Curium");
+            document.writeln ("Symbol:Cm");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:96");
+            document.writeln ("Mass Number:247");
+            document.writeln ("Number of Protons:96");
+            document.writeln ("Number of Electrons:96");
+            document.writeln ("Number of Neutrons:151");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 25, 9, 2");
+            document.writeln ("Valency:-2");
+            document.writeln ("Interesting fact: Curium has been used to provide power to electrical equipment in space missions.");
+            break;
+          }
+        case "97":
+          {
+            document.writeln ("Name of element:Berkelium");
+            document.writeln ("Symbol:Bk");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:97");
+            document.writeln ("Mass Number:247");
+            document.writeln ("Number of Protons:97");
+            document.writeln ("Number of Electrons:97");
+            document.writeln ("Number of Neutrons:150");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 27, 8, 2");
+            document.writeln ("Valency:4");
+            document.writeln ("Interesting fact: Berkelium has been used in the synthesis of heavier elements such as tennessine.");
+            break;
+          }
+        case "98":
+          {
+            document.writeln ("Name of element:Californium");
+            document.writeln ("Symbol:Cf");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:98");
+            document.writeln ("Mass Number:251");
+            document.writeln ("Number of Protons:98");
+            document.writeln ("Number of Electrons:98");
+            document.writeln ("Number of Neutrons:153");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 28, 8, 2");
+            document.writeln ("Valency:-3");
+            document.writeln ("Interesting fact: Californium has been used in portable metal detectors.");
+            break;
+          }
+        case "99":
+          {
+            document.writeln ("Name of element:Einsteinium");
+            document.writeln ("Symbol:Es");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:99");
+            document.writeln ("Mass Number:252");
+            document.writeln ("Number of Protons:99");
+            document.writeln ("Number of Electrons:99");
+            document.writeln ("Number of Neutrons:153");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 29, 8, 2");
+            document.writeln ("Valency:4");
+            document.writeln ("Interesting fact: Einsteinium was created by the bombardment of neutrons with plutonium atoms in a nuclear reactor.");
+            break;
+          }
+        case "100":
+          {
+            document.writeln ("Name of element:Fermium");
+            document.writeln ("Symbol:Fm");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:100");
+            document.writeln ("Mass Number:257");
+            document.writeln ("Number of Protons:100");
+            document.writeln ("Number of Electrons:100");
+            document.writeln ("Number of Neutrons:157");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 30, 8, 2");
+            document.writeln ("Valency:4");
+            document.writeln ("Interesting fact: Fermium is the heaviest metal that is formed by the bombardment of atoms of lighter elements.");
+            break;
+          }
+        case "101":
+          {
+            document.writeln ("Name of element:Mendelevium");
+            document.writeln ("Symbol:Md");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:101");
+            document.writeln ("Mass Number:258");
+            document.writeln ("Number of Protons:101");
+            document.writeln ("Number of Electrons:101");
+            document.writeln ("Number of Neutrons:157");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 31, 8, 2");
+            document.writeln ("Valency:+3");
+            document.writeln ("Interesting fact: This element was named after the scientist Dmitri Mendeleev who first created the periodic table which very accurate about most of the elements!");
+            break;
+          }
+        case "102":
+          {
+            document.writeln ("Name of element:Nobelium");
+            document.writeln ("Symbol:No");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:102");
+            document.writeln ("Mass Number:259");
+            document.writeln ("Number of Protons:102");
+            document.writeln ("Number of Electrons:102");
+            document.writeln ("Number of Neutrons:157");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 32, 8, 2");
+            document.writeln ("Valency:+3");
+            document.writeln ("Interesting fact: Due to its scarcity, Nobelium has no known uses except for chemical research.");
+            break;
+          }
+        case "103":
+          {
+            document.writeln ("Name of element:Lawrencium");
+            document.writeln ("Symbol:Lr");
+            document.writeln ("Group:Actinides");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:103");
+            document.writeln ("Mass Number:266");
+            document.writeln ("Number of Protons:103");
+            document.writeln ("Number of Electrons:103");
+            document.writeln ("Number of Neutrons:163");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 32, 8, 3");
+            document.writeln ("Valency:+3");
+            document.writeln ("Interesting fact: Lawrencium was named after Ernest Lawrence, the inventor of cyclotron which was instrumental in the discovery of many elements");
+            break;
+          }
+        case "104":
+          {
+            document.writeln ("Name of element:Rutherfordium");
+            document.writeln ("Symbol:Rf");
+            document.writeln ("Group:4");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:104");
+            document.writeln ("Mass Number:267");
+            document.writeln ("Number of Protons:104");
+            document.writeln ("Number of Electrons:104");
+            document.writeln ("Number of Neutrons:163");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 32, 10, 2");
+            document.writeln ("Valency:4");
+            document.writeln ("Interesting fact: Rutherfordium is a radioactive metal that does not occur naturally. Relatively few atoms have ever been made.");
+            break;
+          }     
+        case "105":
+          {
+            document.writeln ("Name of element:Dubnium");
+            document.writeln ("Symbol:Db");
+            document.writeln ("Group:5");
+            document.writeln ("Period:7");
+            document.writeln ("Atomic Number:105");
+            document.writeln ("Mass Number:268");
+            document.writeln ("Number of Protons:268");
+            document.writeln ("Number of Electrons:268");
+            document.writeln ("Number of Neutrons:163");
+            document.writeln ("Electronic Configuration:2, 8, 18, 32, 32, 11, 2");
+            document.writeln ("Valency:-3");
+            document.writeln ("Interesting fact: Dubnium is named for the town in Russia where it was first made, Dubna");
+            break;
+          }
     case "106":
     {
       document.write ("Name of element:Seaborgium" + "<br>" );
